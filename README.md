@@ -8,26 +8,26 @@
 - [Data Cleaning / Preparation](#data-cleaning-/-preparation)
 - [Exploratary Data Analysis](#exploratary-data-analysis)
 
-### PROJECT OVERVIEW -
+### PROJECT OVERVIEW
 
 This data analysis project aims to provide insights into the sales performance of an company over the couple of years. By analyzing various aspects of the orders data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-### DATA SOURCES -
+### DATA SOURCES
 
 Orders Data : The primary dataset used for this analysis is the "[orders_raw.csv](orders_raw.csv)" file, containing detailed information about each sale made by the company.
 
-### TOOLS -
+### TOOLS
 
 - PYTHON LANGUAGE AND JUPYTER NOTEBOOK : Data Cleaning.
 - SQL SERVER : Data Analysis.
 
-### DATA CLEANING / PREPARATION -
+### DATA CLEANING / PREPARATION
 
 1. Data Loading and Inspection.
 2. Handling Missing Values.
 3. Data Cleaning and Formatting.
 
-### EXPLORATORY DATA ANALYSIS -
+### EXPLORATORY DATA ANALYSIS
 
 EDA involved exploring the sales data to answer key questions, such as:
 
