@@ -14,7 +14,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 ### DATA SOURCES -
 
-Orders Data: The primary dataset used for this analysis is the "[orders_raw.csv](orders_raw.csv)" file, containing detailed information about each sale made by the company.
+Orders Data : The primary dataset used for this analysis is the "[orders_raw.csv](orders_raw.csv)" file, containing detailed information about each sale made by the company.
 
 ### TOOLS -
 
@@ -23,9 +23,9 @@ Orders Data: The primary dataset used for this analysis is the "[orders_raw.csv]
 
 ### DATA CLEANING / PREPARATION -
 
-1. Data loading and inspection.
-2. Handling missing values.
-3. Data cleaning and formatting.
+1. Data Loading and Inspection.
+2. Handling Missing Values.
+3. Data Cleaning and Formatting.
 
 ### EXPLORATORY DATA ANALYSIS -
 
@@ -35,4 +35,4 @@ EDA involved exploring the sales data to answer key questions, such as:
 2. Find top 5 highest selling products in each region.
 3. Find month over month growth comparison for 2022 and 2023 orders : eg. Jan. 2022 VS Jan. 2023.
 4. Find for the each category which month had highest sales.
-5. Which sub-category had highest growth by profit in 2023 as compared to 2022.
+5. Which sub-category had highest growth by profit in 2023 as compared to 2022?
